@@ -1,1 +1,1 @@
-# twitter-reply-bot
+# Twitter (X) reply bot
